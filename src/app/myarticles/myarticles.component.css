@@ -1,0 +1,28 @@
+.btn{
+    background: rgb(223, 64, 64);
+    color:#fff;
+    padding:5px;
+    border: none;
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 30%;
+}
+
+.btn:{
+    background-color: white;
+}
+
+.myinput{
+    width: 50%;
+
+}
+
+.content-body{
+    border: silver solid 1px;
+}
+
+.input-click{
+    margin-left: 23%;
+}
+
